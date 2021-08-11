@@ -29,7 +29,7 @@ const Home = () => {
                         Starter template
                     </h2>
                     <p className='text-white md:text-xl mt-16 w-full lg:w-7/12 text-center md:text-left px-10 md:px-0'>
-                        This is an starter template for React projects, includes
+                        This is a starter template for React projects, includes
                         a next pakages...
                     </p>
                     <div className='flex justify-between w-full md:w-10/12 lg:w-6/12 mt-16 px-12 md:px-0'>
